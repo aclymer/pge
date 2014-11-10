@@ -1,0 +1,38 @@
+{
+  "uuid": "d3873d4b-debf-4d10-a9cd-9e8ab9eebed3",
+  "shortName": "maze-example",
+  "longName": "maze-example",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type":"png",
+        "name":"ROBOT_UP",
+        "file":"images/robot_up.png"
+      },
+      {
+        "type":"png",
+        "name":"ROBOT_DOWN",
+        "file":"images/robot_down.png"
+      },
+      {
+        "type":"png",
+        "name":"ROBOT_RIGHT",
+        "file":"images/robot_right.png"
+      },
+      {
+        "type":"png",
+        "name":"ROBOT_LEFT",
+        "file":"images/robot_left.png"
+      }
+    ]
+  }
+}
